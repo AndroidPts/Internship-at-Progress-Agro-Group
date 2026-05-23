@@ -467,6 +467,10 @@ python manage.py migrate
 
 ---
 
+<img width="1280" height="973" alt="список" src="https://github.com/user-attachments/assets/3ba32ba9-e239-4a2b-9f61-f234e1384d98" />
+
+---
+
 ## 17. Доступ проекта на порту 8080
 
 ### Запуск сервера разработки
